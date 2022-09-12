@@ -1,0 +1,25 @@
+.ty{
+    display: inline-block;
+    text-align: center;
+}
+.tysk {
+  margin: auto;
+  height: 150px;
+  width: 250px;
+  overflow: hidden;
+  border-radius: 5px;
+}
+.stripe {
+  display: block;
+  width: 100%;
+  height: 33.3%;
+}
+.black {
+  background-color: #000000;
+}
+.red {
+  background-color: #FF0000;
+}
+.gold{
+  background-color: #FFCC00;
+}
